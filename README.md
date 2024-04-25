@@ -5,6 +5,9 @@ This project is a web application built with React. It's designed to provide a u
 
 ![image](https://github.com/andersonmenezesm/pizzashop-web/assets/47919476/77a9f332-22b1-49c5-9ca6-3e35d58cc03f)
 
+![image](https://github.com/andersonmenezesm/pizzashop-web/assets/47919476/4346c298-54d3-451f-a5dc-c208e3048cae)
+
+
 ---
 <br />
 
