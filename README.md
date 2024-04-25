@@ -57,7 +57,3 @@ npm run start
 This will start the development server, and you can view the application in your web browser at `http://localhost:3000`.
 
 
-<br />
-
----
-![image](https://github.com/andersonmenezesm/pizzashop-web/assets/47919476/77a9f332-22b1-49c5-9ca6-3e35d58cc03f)
