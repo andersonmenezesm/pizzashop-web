@@ -11,6 +11,8 @@ interface GetProfile {
 }
 
 export async function  getProfile() {
+  // throw new Error("Simulated error");
+  
   const response = await api.get<GetProfile>("/me");
 
   return response.data;
